@@ -36,7 +36,7 @@
   <br>
     - An autonomous Webots robot designed to build an occupancy grid (map) of its surroundings
   <br>
-    - <b>Repository</b> - Private until deadline is passed
+    - <b>Repository</b> - Private until deadline has passed
   <br>
     - <b>Grade:</b> TBC
   <br>
