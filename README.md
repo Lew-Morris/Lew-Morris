@@ -16,7 +16,7 @@
 </a>
 
 ## Past Projects
-**University**
+### University
 <details closed>
   <summary>Filter2D</summary>
     <br>
@@ -51,7 +51,7 @@
 </details>
 </details>  
 
-**A-Levels**
+### A-Levels
 <details closed>
   <summary>Password manager</summary>
   <br>
