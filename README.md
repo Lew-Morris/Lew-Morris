@@ -38,26 +38,24 @@
   <br>
     - <b>Repository</b> - Private until deadline has passed
   <br>
-    - <b>Grade:</b> TBC
+    - <b>Grade:</b> 72/100
   <br>
     - <b>Module:</b> Autonomous mobile robotics
   <br>
     - <b>Language:</b> Python
   <br>
-  <details closed>
-    <summary>What I learned</summary>
-    <br>
-    - <b>TBA</b>
-</details>
+<!--   <details closed> -->
+<!--     <summary>What I learned</summary> -->
+<!--     <br> -->
+<!--     - <b></b> -->
+<!-- </details> -->
 </details>  
 
 ### A-Levels
 <details closed>
   <summary>Password manager</summary>
   <br>
-    - A locally stored password manager with a GUI
-  <br>
-    - <b>Repository</b> - To be created
+    - A locally stored password manager with a GUI, SMS 2FA for login, SHA256 and AES256 encryption, and a backup password/PIN to recover passwords.
   <br>
       - <b>Grade:</b> A
   <br>
@@ -93,10 +91,12 @@
   </details>
 </details>
 
-**More to be added soon!**
+<!-- **More to be added soon!** -->
 
-<!-- Dropdown copy-paste
+<!-- Dropdown copy-paste -->
+<!-- 
 <details closed>
   <summary>SUMMARY</summary>
   <br>
-</details> -->
+</details>
+ -->
