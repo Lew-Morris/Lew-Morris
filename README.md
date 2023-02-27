@@ -15,6 +15,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/16px-Twitter-logo.svg.png" alt="twitter"> Twitter
 </a>
 
+- <a href="https://notes.lewismorris.dev/" rel="nofollow noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/16/889/889648.png" alt="notes"> University Notes</a> (In progress) - <a href="https://github.com/Lew-Morris/University-Notes">Repository</a>
+
+
 ## Past Projects
 ### University
 <details closed>
