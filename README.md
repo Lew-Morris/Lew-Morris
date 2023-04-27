@@ -8,12 +8,13 @@
 
 ## 🔗 Links
 - <a href="https://www.linkedin.com/in/lewis-morris/" rel="nofollow noreferrer">
-  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin-logo"> LinkedIn
 </a>
 
 - <a href="https://twitter.com/lew___" rel="nofollow noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/16px-Twitter-logo.svg.png" alt="twitter"> Twitter
+  <img src="https://user-images.githubusercontent.com/78938056/234883076-a4f002c6-3531-4f26-bd6f-6b9bced04e73.svg" alt="twitter-logo" style="width:16px;height:16px;"> Twitter
 </a>
+
 
 - <a href="https://notes.lewismorris.dev/" rel="nofollow noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/16/889/889648.png" alt="notes"> University Notes</a> (In progress) - <a href="https://github.com/Lew-Morris/University-Notes">Repository</a>
