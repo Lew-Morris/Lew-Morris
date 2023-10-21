@@ -1,7 +1,7 @@
 ## Introduction
 - 👋 Hi, I’m @Lew-Morris
 - 👀 I’m interested in software engineering, cybersecurity and new technologies
-- 🌱 I’m currently learning Rust. I am using this in my [final year project](https://github.com/Lew-Morris/3d-cellular-automata)!
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: [lewis@lewismorris.dev](mailto:lewis@lewismorris.dev)
 - 🖥️ I am currently using Ubuntu and Windows for development
 - 🎓 Graduating July 2023! 
@@ -14,10 +14,6 @@
 - <a href="https://twitter.com/lew___" rel="nofollow noreferrer">
   <img src="https://user-images.githubusercontent.com/78938056/234883076-a4f002c6-3531-4f26-bd6f-6b9bced04e73.svg" alt="twitter-logo" style="width:16px;height:16px;"> Twitter
 </a>
-
-
-- <a href="https://notes.lewismorris.dev/" rel="nofollow noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/16/889/889648.png" alt="notes"> University Notes</a> (In progress) - <a href="https://github.com/Lew-Morris/University-Notes">Repository</a>
 
 
 ## Past Projects
