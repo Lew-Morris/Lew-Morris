@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: [lewis@lewismorris.dev](mailto:lewis@lewismorris.dev)
 - 🖥️ I am currently using Ubuntu and Windows for development
-- 🎓 Graduating July 2023! 
 
 ## 🔗 Links
 - <a href="https://www.linkedin.com/in/lewis-morris/" rel="nofollow noreferrer">
